@@ -1,0 +1,89 @@
+/* CrossRoads policy manual. Governance block styling.
+   Starlight supplies the rest of the design system; this file only styles the
+   policy metadata that Starlight does not know about. */
+
+.policy-title h1 {
+  margin-bottom: 0.5rem;
+}
+
+.policy-governance {
+  margin: 0 0 1.75rem;
+  font-size: var(--sl-text-sm);
+}
+
+.policy-banner {
+  margin: 0 0 1rem;
+  padding: 0.75rem 1rem;
+  border-radius: 0.35rem;
+  border-inline-start: 4px solid var(--sl-color-orange);
+  background: var(--sl-color-orange-low);
+  color: var(--sl-color-white);
+  line-height: 1.5;
+}
+
+.policy-banner--retired {
+  border-inline-start-color: var(--sl-color-gray-3);
+  background: var(--sl-color-gray-6);
+}
+
+.policy-meta {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.3rem 1.25rem;
+  margin: 0 0 0.9rem;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 0.35rem;
+  background: var(--sl-color-gray-7, var(--sl-color-gray-6));
+}
+
+.policy-meta__row {
+  display: contents;
+}
+
+.policy-meta dt {
+  font-weight: 600;
+  color: var(--sl-color-gray-2);
+  white-space: nowrap;
+}
+
+.policy-meta dd {
+  margin: 0;
+  color: var(--sl-color-white);
+}
+
+.policy-history {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.policy-history__note {
+  color: var(--sl-color-gray-3);
+}
+
+/* Stack the metadata grid on narrow screens so nothing scrolls sideways. */
+@media (max-width: 30rem) {
+  .policy-meta {
+    grid-template-columns: 1fr;
+    gap: 0.1rem;
+  }
+
+  .policy-meta__row + .policy-meta__row {
+    margin-top: 0.6rem;
+  }
+}
+
+/* Printing. A policy, or the whole manual, should print cleanly. */
+@media print {
+  .policy-meta {
+    border: 1px solid #999;
+    background: none;
+  }
+
+  .policy-history {
+    display: none;
+  }
+}
