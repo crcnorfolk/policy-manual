@@ -1,120 +1,139 @@
 ---
 title: Paid Time Off
-description: Paid time off for CrossRoads Church employees - classifications, accrual, carryover, requesting time, holidays, Soul Care Days, bereavement, and leave.
+description: Paid time off for CrossRoads Church employees - classifications, accrual, carryover, requesting time, holidays, Soul Care Days, bereavement, jury duty, and military leave.
 policy_number: "3.01"
-status: draft
+status: approved
+effective: 2026-08-12
 approved_by: Elder Board
+approved_on: 2026-08-12
+minutes: Elder Board minutes, 12 August 2026
 review_cycle: Annually
 sidebar:
   order: 301
 ---
 
-## Purpose
+## 1. Purpose
 
-CrossRoads Church provides Paid Time Off (PTO) to give employees time away from work for vacation, illness, medical appointments, personal matters, and family needs. PTO combines vacation and sick leave into one bank of paid leave. Employees are encouraged to use it for rest and renewal, not only when they are sick.
+CrossRoads Church provides paid time off so employees have time away from work for rest, vacation, illness, medical appointments, personal appointments, and personal business.
 
-## Employee Classifications
+This policy also provides paid days that are not drawn from the PTO bank including paid holidays and Soul Care Days, a quarterly paid Sabbath day for time with God.
+
+## 2. Employee Classifications
 
 ### Full-Time Employee
 
 A regular employee scheduled to work **30 or more hours per week**.
 
-Eligible for:
-
-- PTO
-- Paid holidays
-- Health insurance
-- Other benefits approved by the Elders
+Eligible for PTO, paid holidays, Soul Care Days, and other benefits approved by the Elders.
 
 Retirement benefits are not a general full-time benefit. Any retirement contribution, including a match, is approved by the Elders for a specific position rather than extended to all full-time employees.
 
 ### Part-Time Employee
 
-A regular employee scheduled to work **18 to 29 hours per week**.
+Part time employees are scheduled to work **20 to 29 hours per week**, which is half-time or more.
 
-Eligible for:
-
-- A flat annual amount of PTO (see PTO Accrual below)
-- Paid holidays only when the holiday falls on a day the employee is regularly scheduled to work
-- Other benefits specifically approved by the Elders
-
-Not eligible for health insurance or retirement unless specifically approved by the Elders.
+Eligible for PTO on the same day-based schedule as full-time employees (Section 3), plus paid holidays and Soul Care Days. Other benefits only when specifically approved by the Elders.
 
 ### Limited-Hours Employee
 
-A regular, ongoing employee scheduled to work **fewer than 18 hours per week**.
+A regular, ongoing employee scheduled to work **fewer than 20 hours per week**, which is less than half-time.
 
-Not eligible for PTO, paid holidays, health insurance, or retirement. This classification covers ongoing roles that are small by design rather than temporary, so hours alone determine eligibility.
-
-Eligible for other benefits only when specifically approved by the Elders.
+Not eligible for PTO, paid holidays, or Soul Care Days under this policy. Eligible for benefits only when specifically approved by the Elders.
 
 ### Temporary/Seasonal Employee
 
 An employee hired for a limited duration or a specific project, regardless of weekly hours.
 
-Not eligible for PTO or benefits unless required by law or specifically approved by the Elders.
+Not eligible for paid leave or other benefits under this policy unless required by law or specifically approved by the Elders.
 
-## PTO Accrual
+## 3. Paid Time Off (PTO)
 
-PTO begins accruing on the employee's hire date. There is no waiting period: PTO may be used as soon as it is accrued. PTO cannot be used before it is earned (no negative balance) unless the supervisor approves an advance in writing.
+PTO covers vacation, illness, medical appointments, personal appointments, personal business, and rest and renewal. This is the only paid leave bank under this policy, so it also covers time away for the employee's own illness or a family member's medical needs.
 
-PTO accrues monthly and is tracked in hours.
+### Accrual
 
-### Full-Time Employees
+- PTO begins accruing on the employee's hire date. There is no waiting period: PTO may be used as soon as it is accrued.
+- PTO cannot be used before it is earned unless the supervisor approves an advance in writing.
+- PTO accrues monthly and balances are tracked in hours.
 
-| Years of Service | Annual PTO | Monthly Accrual |
-|---|---|---|
-| 0 to 2 years | 90 hours (15 days) | 6.00 hours |
-| 3 to 5 years | 126 hours (21 days) | 9.00 hours |
-| 6 to 10 years | 162 hours (27 days) | 12.00 hours (cap) |
+One day means the employee's own day
 
-Monthly accrual is tracked to two decimal places.
+For calculating PTO hours, **one day equals the employee's scheduled weekly hours divided by five**.
 
-### Part-Time Employees
+| Scheduled weekly hours | One day equals |
+|---|---|
+| 40 hours | 8 hours |
+| 30 hours | 6 hours |
+| 20 hours | 4 hours |
 
-Part-time employees receive a flat **72 hours of PTO per year**, accruing at **6.00 hours per month**, regardless of exact scheduled hours within the 18 to 29 hour range.
+An employee whose scheduled hours are not listed uses the same division.
 
-## Carryover
+How much PTO an employee earns
 
-Employees may carry over up to **24 hours** of unused PTO into the following calendar year. Any unused PTO above 24 hours on December 31 is forfeited unless the Elders approve an exception in advance.
+Every eligible employee earns the **same number of days** at the same length of service. Because a day is sized to the employee's schedule, the hours differ while the time away does not.
 
-## Using PTO
+| Years of Service | Days per year | At 40 hrs/wk | At 30 hrs/wk | At 20 hrs/wk |
+|---|---|---|---|---|
+| 0 to 2 years | 12 days | 96 hrs (8.00/mo) | 72 hrs (6.00/mo) | 48 hrs (4.00/mo) |
+| 3 to 5 years | 15 days | 120 hrs (10.00/mo) | 90 hrs (7.50/mo) | 60 hrs (5.00/mo) |
+| 6 or more years | 18 days | 144 hrs (12.00/mo) | 108 hrs (9.00/mo) | 72 hrs (6.00/mo) |
 
-PTO may be used for:
+The formula behind the table, for any schedule:
 
-- Vacation
-- Personal appointments
-- Illness
-- Family illness
-- Personal business
-- Mental health
-- Rest and renewal
+**Annual PTO hours** = days for the tier × (scheduled weekly hours ÷ 5)
+
+**Monthly accrual** = annual PTO hours ÷ 12
+
+- The 6-or-more-years tier is the maximum. This rule is the same for full-time and part-time employees.
+- Limited-hours and temporary or seasonal employees do not accrue PTO.
+- Years of service are measured from the hire date. An employee moves to the next tier on the anniversary date beginning that tier.
+
+When scheduled hours change
+
+If an employee's scheduled weekly hours change, the new accrual rate takes effect the following month. Hours already accrued are not recalculated, and the value of a day for spending purposes follows the current schedule. An employee moving from 20 to 30 hours a week goes from 4.00 to 6.00 hours a month and keeps everything banked to that point.
+
+**An employee whose hours fall below 20 keeps the PTO already accrued.** Accrual pauses while their schedule is under 20 hours a week and resumes if their hours return. Banked PTO remains available to use and is not forfeited, and it is spent at the employee's day as their current schedule defines it. A reduction in hours should not cost someone time they have already earned.
+
+### Carryover
+
+Employees may carry over up to **three days** of unused PTO into the following calendar year, using the employee's own day as defined above. That is 24 hours at 40 hours a week, 18 hours at 30, and 12 hours at 20. Any unused PTO above that on December 31 is forfeited unless the Elders approve an exception in advance.
 
 ### Requesting PTO
 
 Planned PTO should be requested at least:
 
-- **One week in advance** for 1 to 2 days
-- **Four weeks in advance** for vacations of three or more days
+- **One week in advance** for one to two days
+- **Two weeks in advance** for absences of three or more days
 
-Supervisor approval is required for all planned PTO. For unplanned illness or emergencies, employees should notify their supervisor as early as possible.
+These notice periods apply to planned absences, such as vacation and scheduled appointments. For illness or another unplanned need, notify your supervisor as soon as practicable — no advance notice is required.
+
+Supervisor approval is required for all PTO; for an unplanned illness absence, notifying your supervisor when you call in satisfies this requirement.
 
 ### Increments
 
-PTO is tracked and charged in hours:
+- **Appointments and partial-day absences** may be taken in **one-hour increments** and are charged the hours actually missed, so a short absence does not consume more leave than needed.
+- **Vacation** should be requested in whole or half days to help with scheduling and coverage. A whole day is charged at the employee's own day.
 
-- **Appointments and partial-day absences** may be taken in **one-hour increments**. This keeps short absences, such as a medical or personal appointment, from consuming more leave than needed.
-- **Vacation** should be requested in **whole or half days** to help with scheduling and coverage.
+### Sundays
 
-## Sundays
+Sunday is the primary ministry day. An employee with Sunday ministry responsibilities may use no more than **four Sundays per calendar year** as planned PTO. Additional Sundays require approval from both the supervisor and the Elders.
 
-Because Sunday is the primary ministry day, ministry staff are expected to schedule vacations in a way that minimizes missed Sunday responsibilities. Extended absences that affect Sunday duties require supervisor approval.
+### PTO at Separation
 
-## Holidays
+Unused accrued PTO is **not paid at separation** and has no cash value. PTO is provided for rest and renewal during employment, not as deferred compensation.
 
-Full-time employees receive the following paid holidays:
+## 4. Extended Leave
+
+An employee facing an absence longer than their available PTO — for example, an extended illness or medical leave — should notify their supervisor as early as possible. If PTO is exhausted, the Elders may approve additional paid or unpaid leave based on the circumstances.
+
+Because CrossRoads Church is not covered by the federal Family and Medical Leave Act, requests for extended leave are considered individually. No paid leave accrues during periods of unpaid leave.
+
+## 5. Holidays
+
+CrossRoads Church observes the following **nine** paid holidays:
 
 - New Year's Day
+- Birthday of Martin Luther King, Jr.
 - Memorial Day
 - Independence Day
 - Labor Day
@@ -123,40 +142,48 @@ Full-time employees receive the following paid holidays:
 - Christmas Eve
 - Christmas Day
 
+A holiday is a day the church is closed and everyone is off. Full-time and part-time employees alike receive the holiday in full, regardless of scheduled hours and regardless of whether the holiday happens to fall on a day they would ordinarily work. No employee is asked to work a holiday, no PTO is charged for it, and no pay is reduced because of it.
+
 When a holiday falls on a weekend, it is observed on the nearest weekday and never on a Sunday, so that staff who work Sundays still receive an actual day off in exchange. The Elders will communicate the observed dates each year.
 
-Part-time employees receive holiday pay only when a paid holiday falls on a day they are regularly scheduled to work.
+## 6. Soul Care Days
 
-## Extended Medical Leave
+CrossRoads Church provides **one paid Soul Care Day per quarter**, set aside for the employee to spend time with God. It is a paid Sabbath day for rest and spiritual renewal, not vacation and not a personal day.
 
-Employees should use available PTO during medical absences. If PTO is exhausted, the Elders may approve additional paid or unpaid leave based on the circumstances.
+**Eligibility.** Employees who are eligible for PTO under Section 2, meaning those scheduled to work 20 or more hours per week. Available from the date of hire.
 
-Because CrossRoads Church is not covered by the federal Family and Medical Leave Act (FMLA), requests for extended leave are considered individually. PTO does not accrue during periods of unpaid leave.
+**It is not charged to any leave bank.** A Soul Care Day does not draw down PTO, and no pay is reduced for it.
 
-## Bereavement Leave
+**Length.** One day. A part-time employee takes a day away from work the same as anyone else.
 
-**Full-time employees:**
+**Scheduling.** A Soul Care Day is taken within the quarter it belongs to and does not carry over. Employees request the day by email to their supervisor in advance, so the church knows who will be out. Approval is expected; the request exists for coverage, not permission.
 
-- Immediate family: up to **3 paid working days**
-- Extended family: up to **1 paid working day**
+**Unused Soul Care Days** have no cash value and are not paid at separation.
 
-**Part-time employees:** bereavement leave is paid only for regularly scheduled workdays that fall within the leave period, up to the same limits.
+## 7. Bereavement Leave
 
-Additional leave may be approved by the supervisor.
+All employees eligible for PTO receive:
 
-## Jury Duty
+- Immediate family: up to **three paid days**
+- Extended family: up to **one paid day**
 
-Employees will receive paid leave for required jury service. Part-time employees are paid for regularly scheduled hours missed due to jury service.
+**Immediate family** means the employee's spouse, child, stepchild, foster child, parent, stepparent, legal guardian, sibling, stepsibling, grandparent, or grandchild, and the same relations of the employee's spouse.
 
-## Military Leave
+**Extended family** means an aunt, uncle, niece, nephew, or cousin, and any other relative or member of the employee's household not listed above.
+
+A part-time employee receives the same number of days as a full-time employee.
+
+Additional leave may be approved by the supervisor. Bereavement leave does not draw down PTO.
+
+## 8. Jury Duty
+
+Employees receive paid leave for required jury service. Each day of service is paid at the employee's own day as defined in Section 3.
+
+## 9. Military Leave
 
 Military leave will comply with all applicable federal and state law.
 
-## PTO at Separation
-
-Unused accrued PTO will be paid at separation, up to a maximum of **24 hours**. Any accrued balance above 24 hours at separation is not paid out.
-
-## Exceptions
+## 10. Exceptions
 
 The Elders may approve exceptions to this policy when extraordinary circumstances exist. Exceptions should be rare and documented.
 
@@ -164,16 +191,20 @@ The Elders may approve exceptions to this policy when extraordinary circumstance
 
 ## About this text
 
-Transcribed from the Google Doc **"Paid Time Off (PTO) Policy - 2026-07-21"** in the church Drive
-`01 - Elder Board/Policies/`, which is the authoritative copy.
+Transcribed from the Google Doc **"CrossRoads Church — Paid Time Off Policy (PTO Only)"**, which is
+the authoritative copy.
 
-**This is marked draft, and the reason needs the board's attention.** The elder board adopted a
-"PTO Only Policy" by motion at the meeting of **12 August 2026** (moved Greg Johnston, seconded
-Mike Stemler, passed unanimously). The text adopted that night is not the text on this page. The
-adopted version added Soul Care Days, jury duty, military leave and an exceptions clause, defined
-part-time as 20 to 29 hours rather than 18 to 29, and changed the Sunday rule. None of that has
-been carried back into the Google Doc.
+Adopted by the elder board at its meeting of **12 August 2026**, on a motion by Greg Johnston
+seconded by Mike Stemler, passed unanimously.
 
-So the church has an approved PTO policy whose text is not the authoritative document. Until the
-Doc is brought up to the adopted version, or the board confirms which text it adopted, publishing
-this as approved would misstate the record. Marked draft on purpose.
+Two things about the record, noted so a later reader is not misled:
+
+- The board did not set a separate effective date, so this is recorded as taking effect on the day
+  it was adopted.
+- The Doc was last edited on 19 August 2026, a week after the vote. Any change made after the
+  meeting is not covered by the motion. If the text was touched in that week, the board should
+  confirm the current wording at its next meeting.
+
+An earlier draft dated 2026-07-21, still sitting in the Drive `Policies/` folder, used a different
+accrual model and was never adopted. It is superseded by this policy and should be archived so the
+two are not confused.
