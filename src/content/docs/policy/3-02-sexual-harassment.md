@@ -50,23 +50,3 @@ Displaying sexually explicit images or text on church property is a violation of
 ## Responsibility
 
 It is the intent of CrossRoads Church to provide a work environment free of sexual harassment in verbal, physical, and visual forms, and free of harassment, intimidation, or coercion in any form. All employees are expected to be sensitive to the individual rights of their co-workers.
-
----
-
-## About this text
-
-Adapted from a sexual harassment policy Lou Page wrote for **Tabernacle Church of Norfolk**, approved by the Tabernacle Church Board of Elders on 11 December 2006. The substance and much of the wording are carried over. The Tabernacle approval does not carry over with them: this is a draft, and CrossRoads has not adopted it.
-
-Changed for CrossRoads, and worth the board's attention:
-
-- **The roles are unchanged from the original,** at Lou's direction. Reports run from the supervisor to the Church Administrator, and findings go to the Senior Pastor. Note that neither role is filled at CrossRoads today: there is no Church Administrator on staff, and the senior pastor position is vacant pending the current search. The board should say who carries these duties in the meantime, or the policy has no working reporting chain.
-- **A direct route was added,** so that a report does not have to pass through a supervisor who is the subject of it, along with routes for a report concerning the Church Administrator or the Senior Pastor. The original had a single path with no alternative, which fails in exactly the cases that matter most.
-- **A no-retaliation section was added.** The original had none.
-- **"Company property" and "company resources" were corrected to church,** wording carried over from a secular template.
-
-Two questions for the board:
-
-1. **Does this cover volunteers?** As written it covers employees only, which is what the original covered. Most of the people serving at CrossRoads on a given Sunday are volunteers, and they are not protected by this policy as drafted.
-2. **Who is the Church Administrator, and who acts as Senior Pastor for this purpose until the search concludes?** The policy names both roles and cannot operate until the board says who holds them.
-
-This policy addresses "personnel policies and procedures" under Bylaws Article 9 Section 2, which lists that as a subject the manual should cover.
