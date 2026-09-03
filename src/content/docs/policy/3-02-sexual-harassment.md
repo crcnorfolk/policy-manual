@@ -1,0 +1,72 @@
+---
+title: Sexual Harassment
+description: CrossRoads Church does not tolerate sexual harassment. What it is, how to report it, how a report is investigated, and what happens next.
+policy_number: "3.02"
+status: draft
+approved_by: Elder Board
+review_cycle: Annually
+sidebar:
+  order: 302
+---
+
+## Purpose
+
+CrossRoads Church will not allow any form of sexual harassment, or any conduct that has the purpose or effect of interfering with a person's work performance or creating an intimidating, hostile, or offensive work environment.
+
+## Scope
+
+This applies to every employee of CrossRoads Church, and to conduct that occurs at church facilities, at church events, or in the course of church work anywhere.
+
+## What sexual harassment is
+
+Sexual harassment, as defined in this policy, includes but is not limited to sexual advances, verbal or physical conduct of a sexual nature, visual forms of a sexual or offensive nature such as signs, posters, material downloaded from the internet, or sexually explicit email, and requests for sexual favors.
+
+## Reporting
+
+Conduct covered by this policy, whether experienced or observed, should be reported immediately to your supervisor, who will then inform the Elder Board Chair.
+
+You may report directly to the Elder Board Chair instead, and should do so if your supervisor is the subject of the report, if your supervisor is involved in it, or if for any reason you would rather not go through your supervisor. Nothing in this policy requires you to raise a concern first with the person it concerns.
+
+If the report concerns the Elder Board Chair, report to any other elder, who will bring it to the Elder Board.
+
+## Investigation
+
+The Elder Board Chair will arrange an investigation and report the findings to the Elder Board. Where the Chair is the subject of the report, or is otherwise involved, the Elder Board will appoint someone who is not involved to arrange it.
+
+The privacy of the person filing the report and the person under investigation will be respected at all times, consistent with the obligation to conduct a fair and thorough investigation.
+
+## No retaliation
+
+No one will be penalised for making a report in good faith or for taking part in an investigation. Retaliation against a person who does either is itself a violation of this policy and is dealt with the same way.
+
+## Consequences
+
+Any intentional sexual harassment is a major violation of church policy and will be dealt with accordingly, by corrective counseling, suspension, or termination, depending on the severity of the violation.
+
+## Church property and church resources
+
+Displaying sexually explicit images or text on church property is a violation of this policy. Employees may not view, download, archive, edit, or manipulate sexually explicit material from the internet using church resources. Any sexually explicit material sent by a fellow employee, or received from outside sources, should be reported under the reporting section above.
+
+## Responsibility
+
+It is the intent of CrossRoads Church to provide a work environment free of sexual harassment in verbal, physical, and visual forms, and free of harassment, intimidation, or coercion in any form. All employees are expected to be sensitive to the individual rights of their co-workers.
+
+---
+
+## About this text
+
+Adapted from a sexual harassment policy Lou Page wrote for **Tabernacle Church of Norfolk**, approved by the Tabernacle Church Board of Elders on 11 December 2006. The substance and much of the wording are carried over. The Tabernacle approval does not carry over with them: this is a draft, and CrossRoads has not adopted it.
+
+Changed for CrossRoads, and worth the board's attention:
+
+- **The reporting chain was rebuilt.** The original routed reports through the Church Administrator to the Senior Pastor. CrossRoads has neither role filled: there is no Church Administrator on staff, and the senior pastor position is vacant pending the current search. Reports now route to the Elder Board Chair and the Elder Board, which exist under Bylaws Article 4.
+- **A direct route was added,** so that a report does not have to pass through a supervisor who is the subject of it, and a further route was added for a report concerning the Chair. The original had a single path with no alternative, which fails in exactly the cases that matter most.
+- **A no-retaliation section was added.** The original had none.
+- **"Company property" and "company resources" were corrected to church,** wording carried over from a secular template.
+
+Two questions for the board:
+
+1. **Does this cover volunteers?** As written it covers employees only, which is what the original covered. Most of the people serving at CrossRoads on a given Sunday are volunteers, and they are not protected by this policy as drafted.
+2. **Is the Elder Board Chair the right recipient?** It is the structurally sound answer today. If a Church Administrator or senior pastor is hired, the board may want to revisit it.
+
+This policy addresses "personnel policies and procedures" under Bylaws Article 9 Section 2, which lists that as a subject the manual should cover.
