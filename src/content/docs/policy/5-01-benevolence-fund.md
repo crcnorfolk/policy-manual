@@ -119,10 +119,14 @@ Drive `01 - Elder Board/Policies/`, which is the authoritative copy.
 the board agreed to read it individually and vote by text poll rather than review it live. That
 vote is still open.
 
-Before it goes to a vote, one thing needs resolving. A second version of this policy in Lou's
-notes contains material this Doc does not: a provision that designated gifts may not be earmarked
-for a named individual, a provision that benevolence paid to an employee is taxable wages, and a
-section on recipient priority. This Doc in turn contains tiered approval limits and an annual
-household maximum that the other version lacks. The two have diverged in both directions. The
-earmarking and employee-wages language is IRS-compliance material and was flagged for review by a
-CPA or the church administrator before adoption.
+Before the vote, three provisions are worth considering, because they exist in an earlier working
+copy of this policy and are not in this Doc:
+
+- Designated gifts may not be earmarked for a named individual.
+- Benevolence paid to an employee is taxable wages and is reported as such.
+- A stated order of priority among recipients.
+
+The first two are IRS-compliance material and were already flagged for review by a CPA or the
+church administrator before adoption. This Doc, for its part, carries the tiered approval limits
+and the $2,500 annual household maximum that the earlier copy lacks. Adding the three provisions
+above would make this document complete; nothing here needs removing.
