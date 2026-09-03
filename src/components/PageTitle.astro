@@ -3,18 +3,14 @@
 // block directly under the heading: when it takes effect, who approved it,
 // when, and what it replaces.
 //
+// The revision history is deliberately not linked from the page. Every version
+// is still kept, and is readable in the public repository.
+//
 // Pages carrying no governance metadata render the title alone, so ordinary
 // pages such as the home page are unaffected.
 const route = (Astro.locals as any).starlightRoute;
 const entry = route?.entry;
 const data: Record<string, any> = entry?.data ?? {};
-
-const REPO = 'https://github.com/crcnorfolk/policy-manual';
-
-// Path of the source file, used to build the revision-history link.
-const filePath: string | undefined =
-  entry?.filePath ?? (entry?.id ? `src/content/docs/${entry.id}` : undefined);
-const historyUrl = filePath ? `${REPO}/commits/main/${filePath}` : `${REPO}/commits/main`;
 
 // Render the governance block for anything carrying governance metadata, not
 // just numbered policies. The constitution and bylaws have no policy number -
@@ -74,14 +70,6 @@ if (data.review_cycle) rows.push(['Review', String(data.review_cycle)]);
             ))}
           </dl>
         )}
-        <p class="policy-history">
-          <a href={historyUrl} rel="noopener">
-            View revision history
-          </a>
-          <span class="policy-history__note">
-            Every change to this policy, with the date and who made it.
-          </span>
-        </p>
       </div>
     )
   }

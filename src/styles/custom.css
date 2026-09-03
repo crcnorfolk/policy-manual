@@ -52,17 +52,7 @@
   color: var(--sl-color-white);
 }
 
-.policy-history {
-  margin: 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  align-items: baseline;
-}
 
-.policy-history__note {
-  color: var(--sl-color-gray-3);
-}
 
 /* Stack the metadata grid on narrow screens so nothing scrolls sideways. */
 @media (max-width: 30rem) {
@@ -81,9 +71,5 @@
   .policy-meta {
     border: 1px solid #999;
     background: none;
-  }
-
-  .policy-history {
-    display: none;
   }
 }

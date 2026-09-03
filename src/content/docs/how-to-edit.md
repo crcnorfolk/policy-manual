@@ -54,7 +54,7 @@ Two rules about that block.
 
 ## Undoing a mistake
 
-Nothing here can be permanently broken. Every version of every policy is kept forever. Open the policy, click **View revision history**, find the version you want, and it can be restored.
+Nothing here can be permanently broken. Every version of every policy is kept forever. Open the policy's file in the [policy folder on GitHub](https://github.com/crcnorfolk/policy-manual/tree/main/src/content/docs/policy) and click **History** to see every change ever made to it, with the date and who made it. Any earlier version can be restored from there.
 
 If something looks wrong and you are not sure how to fix it, leave it and ask for help. A wrong policy on the site for a day is a smaller problem than a confused fix.
 
