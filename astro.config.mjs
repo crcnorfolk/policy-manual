@@ -25,6 +25,13 @@ export default defineConfig({
       sidebar: [
         { label: 'Start here', link: '/' },
         {
+          // The constitution and bylaws are not policies. They are adopted by
+          // congregational vote, not by the elder board, and they sit above
+          // everything in the Policies group. Keep this group first.
+          label: 'Governing documents',
+          items: [{ autogenerate: { directory: 'governing' } }],
+        },
+        {
           label: 'Policies',
           items: [{ autogenerate: { directory: 'policy' } }],
         },

@@ -3,8 +3,8 @@
 // block directly under the heading: when it takes effect, who approved it,
 // when, and what it replaces.
 //
-// Pages with no policy_number and no status other than the default render the
-// title alone, so ordinary pages such as the home page are unaffected.
+// Pages carrying no governance metadata render the title alone, so ordinary
+// pages such as the home page are unaffected.
 const route = (Astro.locals as any).starlightRoute;
 const entry = route?.entry;
 const data: Record<string, any> = entry?.data ?? {};
@@ -16,7 +16,13 @@ const filePath: string | undefined =
   entry?.filePath ?? (entry?.id ? `src/content/docs/${entry.id}` : undefined);
 const historyUrl = filePath ? `${REPO}/commits/main/${filePath}` : `${REPO}/commits/main`;
 
-const isPolicy = Boolean(data.policy_number);
+// Render the governance block for anything carrying governance metadata, not
+// just numbered policies. The constitution and bylaws have no policy number -
+// they are adopted by congregational vote and sit above the policy scheme - but
+// they still need their effective date, approving body and revision history on
+// the page. Ordinary pages (home, how-to-edit) carry none of these fields and
+// are unaffected.
+const isPolicy = Boolean(data.policy_number || data.effective || data.approved_by);
 const status: string = data.status ?? 'draft';
 
 const fmt = (d: unknown) =>
