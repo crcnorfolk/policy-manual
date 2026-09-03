@@ -5,8 +5,6 @@ status: approved
 effective: 2024-07-01
 approved_by: Church membership
 review_cycle: Annually
-sidebar:
-  order: 1
 ---
 
 The constitution of CrossRoads Church. It states what the church is, what it believes, and how it
@@ -155,21 +153,3 @@ Members may propose changes to the Constitution that shall be submitted to the B
 - The proposed written amendment has been presented at a previous Members Business Meeting.
 - The proposed amendment has been mailed or made available to the membership at least four (4) weeks before the meeting to act on the proposed amendment.
 - The proposed amendment has been announced on a previous Sunday morning at least two (2) weeks before the vote is taken.
-
----
-
-## About this text
-
-This is the constitution and bylaws document last updated **1 July 2024**, transcribed from the
-Word original held in the church's Elder Board files. The constitution and the bylaws were a single
-document; they are published here as two entries because they are amended by different processes
-and at different thresholds.
-
-The text is reproduced in full and unaltered. The only changes are formatting: headings carry the
-section numbers that Word generated automatically, and hyphens in headings were normalised to
-dashes for consistency.
-
-Two fields on this page are not yet filled in, and should be once the record is located: the date
-the membership adopted this version, and the citation to the minutes of that meeting. This entry is
-marked as in force because it is the church's governing document, not because the adopting vote has
-been verified against minutes.

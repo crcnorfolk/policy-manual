@@ -6,7 +6,7 @@ status: draft
 approved_by: Elder Board
 review_cycle: Annually
 sidebar:
-  order: 302
+  order: 50
 ---
 
 ## Purpose

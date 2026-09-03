@@ -9,7 +9,7 @@ approved_on: 2026-08-12
 minutes: Elder Board minutes, 12 August 2026
 review_cycle: Annually
 sidebar:
-  order: 301
+  order: 30
 ---
 
 ## 1. Purpose
@@ -186,25 +186,3 @@ Military leave will comply with all applicable federal and state law.
 ## 10. Exceptions
 
 The Elders may approve exceptions to this policy when extraordinary circumstances exist. Exceptions should be rare and documented.
-
----
-
-## About this text
-
-Transcribed from the Google Doc **"CrossRoads Church — Paid Time Off Policy (PTO Only)"**, which is
-the authoritative copy.
-
-Adopted by the elder board at its meeting of **12 August 2026**, on a motion by Greg Johnston
-seconded by Mike Stemler, passed unanimously.
-
-Two things about the record, noted so a later reader is not misled:
-
-- The board did not set a separate effective date, so this is recorded as taking effect on the day
-  it was adopted.
-- The Doc was last edited on 19 August 2026, a week after the vote. Any change made after the
-  meeting is not covered by the motion. If the text was touched in that week, the board should
-  confirm the current wording at its next meeting.
-
-An earlier draft dated 2026-07-21, still sitting in the Drive `Policies/` folder, used a different
-accrual model and was never adopted. It is superseded by this policy and should be archived so the
-two are not confused.

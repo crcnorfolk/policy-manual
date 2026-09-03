@@ -5,8 +5,6 @@ status: approved
 effective: 2024-07-01
 approved_by: Church membership
 review_cycle: Annually
-sidebar:
-  order: 2
 ---
 
 The bylaws of CrossRoads Church. They set out how the church is governed day to day: who may be a
@@ -528,21 +526,3 @@ Any person made or threatened to be made a party to any action or proceeding, wh
 ## Article 12 – Amendments to Bylaws
 
 Changes in these Bylaws may be made at any regular business meeting of the Church, provided all such amendments have been presented in writing at a previous meeting, that notice of the proposed amendment is included in the Church bulletin at least two (2) successive worship services prior, and copies of the proposed amendment be provided in writing to each member present.  Amendments to the Bylaws will be by two-thirds (2/3) vote of all members of the Church present entitled to vote.
-
----
-
-## About this text
-
-This is the constitution and bylaws document last updated **1 July 2024**, transcribed from the
-Word original held in the church's Elder Board files. The constitution and the bylaws were a single
-document; they are published here as two entries because they are amended by different processes
-and at different thresholds.
-
-The text is reproduced in full and unaltered. The only changes are formatting: headings carry the
-section numbers that Word generated automatically, and hyphens in headings were normalised to
-dashes for consistency.
-
-Two fields on this page are not yet filled in, and should be once the record is located: the date
-the membership adopted this version, and the citation to the minutes of that meeting. This entry is
-marked as in force because it is the church's governing document, not because the adopting vote has
-been verified against minutes.

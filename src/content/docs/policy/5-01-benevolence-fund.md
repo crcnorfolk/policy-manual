@@ -6,7 +6,7 @@ status: draft
 approved_by: Elder Board
 review_cycle: Annually
 sidebar:
-  order: 501
+  order: 10
 ---
 
 ## Purpose
@@ -107,26 +107,3 @@ These guidelines direct the distribution of benevolence funds. They are not exha
 - Publication 1828 — Tax Guide for Churches and Religious Organizations
 - Publication 1771 — Charitable Contributions: Substantiation and Disclosure
 - Publication 4221-PC — Compliance Guide for 501(c)(3) Public Charities
-
----
-
-## About this text
-
-Transcribed from the Google Doc **"CrossRoads Benevolence Fund Policy 2026-06-02"** in the church
-Drive `01 - Elder Board/Policies/`, which is the authoritative copy.
-
-**Not yet adopted.** The draft was circulated at the elder board meeting of 12 August 2026, where
-the board agreed to read it individually and vote by text poll rather than review it live. That
-vote is still open.
-
-Before the vote, three provisions are worth considering, because they exist in an earlier working
-copy of this policy and are not in this Doc:
-
-- Designated gifts may not be earmarked for a named individual.
-- Benevolence paid to an employee is taxable wages and is reported as such.
-- A stated order of priority among recipients.
-
-The first two are IRS-compliance material and were already flagged for review by a CPA or the
-church administrator before adoption. This Doc, for its part, carries the tiered approval limits
-and the $2,500 annual household maximum that the earlier copy lacks. Adding the three provisions
-above would make this document complete; nothing here needs removing.

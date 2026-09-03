@@ -6,7 +6,7 @@ status: draft
 approved_by: Elder Board
 review_cycle: Annually
 sidebar:
-  order: 701
+  order: 20
 ---
 
 ## Purpose
@@ -97,12 +97,3 @@ Congregants are encouraged to support missionaries directly through the missiona
 ## Changes to This Policy
 
 The Elders may revise this policy as needed. All revisions are documented, dated, and communicated to relevant leaders and partners.
-
----
-
-## About this text
-
-Transcribed from the Google Doc **"CrossRoads Church Missions Policy 2026-06-02"** in the church
-Drive `01 - Elder Board/Policies/`, which is the authoritative copy.
-
-**Not yet adopted.** No board vote on this policy appears in the minutes to date.

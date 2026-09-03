@@ -49,7 +49,8 @@ Two rules about that block.
 2. Click **Add file**, then **Create new file**.
 3. Name the file with its policy number and a short description, all lowercase, with dashes instead of spaces, ending in `.md`. For example `6-01-building-use.md`. This name becomes the web address and should never change afterwards.
 4. Copy the whole contents of [POLICY-TEMPLATE.md](https://github.com/crcnorfolk/policy-manual/blob/main/POLICY-TEMPLATE.md) into the file and fill it in.
-5. Commit the change the same way as above.
+5. Set the `order` line so the policy lands in the right place. **The list on the left is in alphabetical order by title, not by policy number.** Find the two policies your new one belongs between alphabetically, and give it a number between theirs. They are spaced ten apart so there is always room.
+6. Commit the change the same way as above.
 
 ## Undoing a mistake
 

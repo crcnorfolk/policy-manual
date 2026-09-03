@@ -6,7 +6,7 @@ status: draft
 approved_by: Elder Board
 review_cycle: Every three years
 sidebar:
-  order: 101
+  order: 40
 ---
 
 ## Purpose
@@ -92,15 +92,3 @@ The manual's own revision history is a supporting record, not a substitute for m
 ## Review
 
 The board reviews this policy every three years, and reviews the manual as a whole annually to identify policies that have gone stale or that the church now needs and does not have.
-
----
-
-## Notes on this draft
-
-This policy has not been to the elder board. It is published as a draft so it can be read and revised first.
-
-Three questions the board has to settle before it can be approved.
-
-1. Is the elder board the only approving body, or can the board delegate some categories, for example facilities or communication, to staff?
-2. Does a policy require a simple majority, a supermajority, or consensus?
-3. Who holds edit access to this manual, and who grants it? The organization should always have at least two owners so that access does not depend on one person.

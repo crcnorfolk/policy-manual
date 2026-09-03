@@ -22,8 +22,12 @@ status: draft
 # minutes: Elder Board minutes, 2026-09-15
 # review_cycle: Annually
 
-# Controls the order in the sidebar. Use the policy number without the dot,
-# so 4.02 becomes 402.
+# Controls where the policy appears in the sidebar. The list is kept in
+# ALPHABETICAL ORDER BY TITLE, not by policy number. Look at the policies
+# either side of where this one belongs alphabetically and pick a number
+# between theirs. They are spaced by 10 so there is always room.
+# Current order: 10 Benevolence Fund, 20 Missions, 30 Paid Time Off,
+# 40 Policy Manual Governance, 50 Sexual Harassment.
 sidebar:
   order: 0
 ---
