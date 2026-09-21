@@ -2,8 +2,11 @@
 title: Benevolence Fund
 description: How CrossRoads Church meets basic needs of members and attendees in financial crisis through the benevolence fund - oversight, contributions, criteria, approval limits, and disbursement.
 policy_number: "5.01"
-status: draft
+status: approved
+effective: 2026-09-14
 approved_by: Elder Board
+approved_on: 2026-09-14
+minutes: Elder Board minutes, 14 September 2026
 review_cycle: Annually
 sidebar:
   order: 10

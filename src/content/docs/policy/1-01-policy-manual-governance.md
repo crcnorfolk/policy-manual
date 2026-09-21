@@ -2,8 +2,11 @@
 title: Policy Manual Governance
 description: How a CrossRoads Church policy is proposed, approved, numbered, revised, and retired.
 policy_number: "1.01"
-status: draft
+status: approved
+effective: 2026-09-14
 approved_by: Elder Board
+approved_on: 2026-09-14
+minutes: Elder Board minutes, 14 September 2026
 review_cycle: Every three years
 sidebar:
   order: 40

@@ -2,8 +2,11 @@
 title: Missions
 description: How CrossRoads Church supports, sends, cares for, and reviews missions partners - the Missions Committee, partner qualifications, support categories, financial support, accountability, and short-term trips.
 policy_number: "7.01"
-status: draft
+status: approved
+effective: 2026-09-14
 approved_by: Elder Board
+approved_on: 2026-09-14
+minutes: Elder Board minutes, 14 September 2026
 review_cycle: Annually
 sidebar:
   order: 20

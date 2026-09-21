@@ -2,8 +2,11 @@
 title: Sexual Harassment
 description: CrossRoads Church does not tolerate sexual harassment. What it is, how to report it, how a report is investigated, and what happens next.
 policy_number: "3.02"
-status: draft
+status: approved
+effective: 2026-09-14
 approved_by: Elder Board
+approved_on: 2026-09-14
+minutes: Elder Board minutes, 14 September 2026
 review_cycle: Annually
 sidebar:
   order: 50
